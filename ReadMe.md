@@ -1,0 +1,1 @@
+The prework project of codepath ios course. Finished the basic functions for tip calculator.
